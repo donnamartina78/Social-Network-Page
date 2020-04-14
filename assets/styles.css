@@ -1,0 +1,8 @@
+style {box-sizing: border-box;}
+
+.container {
+    position: relative;
+    background-color: rgb(74, 74, 160);
+    width: 80%;
+    margin: 0px auto; 
+}
