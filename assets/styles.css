@@ -1,8 +1,58 @@
 style {box-sizing: border-box;}
 
-.container {
-    position: relative;
-    background-color: rgb(74, 74, 160);
-    width: 80%;
+.big-blue-header {
+    height:500px;
+    width: 850px;
     margin: 0px auto; 
+    background-color: rgb(58, 58, 155);
 }
+
+
+
+h2 {container
+     font-family: 'Trebuchet MS';
+    {font-size: 35px;
+       
+        color: white;
+        font-family: 'Trebuchet MS';
+        position: relative; 
+        top: 400px;
+        left: 250px;
+    }
+
+}
+.profile-photo {
+    position: relative;
+    top: 350px; 
+    left: 30px; 
+    border: 1px solid black; 
+    border-radius: 2%;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(58, 58, 155);
+
+}
+
+.block li {
+    position: relative;
+    display: inline;
+    left: 350px;
+    top: 275px;
+    color: Black;
+    
+}
+
+.button {
+    border: none;
+    background-color: white;
+    padding: 5px;
+    font-size: medium;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+}
+.All-buttons {
+    position: relative;
+    left: 600px; 
+    top: 250px; 
+} 
